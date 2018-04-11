@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="body">
+<text class='text'>{{text}}</text>
+<button class='button' bindtap='add'>add</button>
+<button class='button' bindtap='remove'>remove</button>
+</view>

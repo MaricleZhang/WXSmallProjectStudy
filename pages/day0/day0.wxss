@@ -1,0 +1,19 @@
+/**index.wxss**/
+
+.body {
+  display: flex;
+  background: #f00;
+  flex-direction: column;
+}
+
+.text {
+  background: #ffff00;
+  flex-direction: row;
+  align-self: center;
+  text-align: center;
+  width: 300rpx;
+}
+
+.button {
+    margin: 0;
+}
