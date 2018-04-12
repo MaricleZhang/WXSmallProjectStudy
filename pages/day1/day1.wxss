@@ -1,0 +1,48 @@
+/* *index.wxss* */
+
+.body {
+  display: flex;
+  flex-direction: column;
+}
+
+.section__title {
+  color: red;
+}
+.scroll-view-item {
+  width: 100%;
+  height: 100px;
+}
+
+.bc_green {
+  background-color: green;
+}
+
+.bc_red {
+  background-color: red;
+}
+
+.bc_yellow {
+  background-color: yellow;
+}
+
+.bc_blue {
+  background-color: blue;
+}
+
+.scroll-view_H {
+  white-space: nowrap; 
+  display: flex;
+  width: 100%;
+  height: 150px;
+}
+
+.scroll-view-item_H {
+  display: inline-block;    
+  width: 100px; 
+  height: 100px;
+}
+
+
+.button {
+    margin: 0;
+}
